@@ -7,4 +7,4 @@ This script works as follows:
 
 2) run script
 
-3) The script will generate to output files (1) 'tidy_data.txt', which is the same as submitted in part 1 of the assingment, (2) 'final_output.txt', which contains 'the average of each variable for each activity and each subject' as requested.
+3) The script will generate two output files (1) 'tidy_data.txt', which is the same as submitted in part 1 of the assignment, (2) 'final_output.txt', which contains 'the average of each variable for each activity and each subject' as requested.

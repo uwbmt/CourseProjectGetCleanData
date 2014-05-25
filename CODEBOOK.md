@@ -17,12 +17,12 @@ Variables 49 to 81: these are the std values for the differnet meassurements.
 
 The raw data contains various variables distributed over a several files from to different sets, i.e. a training and a test set.
 
-The tidy data summarizes data relevant for the task (variables representing mean or std values) from both sets in a single file. Further activities are labeled as such.
+The tidy data summarizes data relevant for the task (variables representing mean or std values) from both sets into a single file. Further, activities are labeled as such.
 
 <h2>Transformations</h2>
-After reading in'y_test.txt"" and 'y_train.txt', the activities were relabeled according to 'activity_labels.txt'.
+After reading in 'y_test.txt"" and 'y_train.txt', the activities were relabeled according to 'activity_labels.txt'.
 
-Using 'grep' relevant variables were determined and used to remove irrelevant variables from both test and training set.
+Using 'grep' relevant variables were determined and used to remove irrelevant variables from both the test and the training set.
 
 For both, test and training set, the corresponding files were combined in two files containing all the information from each set. 
 
